@@ -1,6 +1,6 @@
 ---
 title: "Bias-Variance"
-author: "Jo„o Neto"
+author: "Jo√£o Neto"
 date: "December 2013"
 output: 
   html_document:
